@@ -482,6 +482,7 @@
 				E51ABDDA1D03E0F600920FD4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E51ABDDB1D03E0F600920FD4 /* Build configuration list for PBXNativeTarget "CountyTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +491,7 @@
 				E51ABDDD1D03E0F600920FD4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E51ABDDE1D03E0F600920FD4 /* Build configuration list for PBXNativeTarget "CountyUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +500,7 @@
 				E51ABDE01D03E0F600920FD4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
